@@ -1,0 +1,119 @@
+<resources>
+    <string name="app_name">recyclerviewmobile2</string>
+    <string name="judul">judul</string>
+    <string name="description">description</string>
+    <string-array name="judul_video">
+        <item>Koh Alim Jadi Miskin</item>
+        <item>Korupsi Part 1</item>
+        <item>Ngidam</item>
+        <item>Bikin Animasi</item>
+        <item>Piket Disekolah</item>
+        <item>Tiba-tiba Ilang</item>
+        <item>Sering Ditengokin</item>
+        <item>Korupsi Part 2</item>
+        <item>Maling Rame-Rame</item>
+        <item>Ngaji</item>
+        <item>Bocoran UN</item>
+        <item>Nyari Suara</item>
+        <item>Cara Bikin Adek</item>
+        <item>Pengen Jadi Youtuber</item>
+        <item>Kodokemon</item>
+    </string-array>
+    <string-array name="data_dekripsi">
+        <item>Santoon TV adalah sebuah channel YouTube animasi sederhana yang membuat konten berdasarkan fenomena sosial yang terjadi di masyarakat dan menyampaikan aspirasi serta pendapat dari penulis.
+            Channel ini mampu menarik perhatian pengguna sosial media dengan konten-konten yang menarik dan memiliki 1,15 juta pengikut di YouTube.
+            Animasi Santoon TV dibalut dengan sarkasme, satire, eufemisme, dan ironi</item>
+        <item>Kartun Tekotok adalah sebuah serial animasi yang populer di platform YouTube dan Instagram.
+            Serial ini dikenal sebagai konten yang cocok untuk keluarga.
+            Kamu dapat menonton episode-episode Tekotok di kanal YouTube resmi mereka, Tekotok, yang telah memiliki jutaan pelanggan dan ratusan video.
+            Mereka juga aktif di Instagram dengan ratusan ribu pengikut.</item>
+        <item>Kartun Tekotok adalah sebuah serial animasi yang populer di platform YouTube dan Instagram.
+            Serial ini dikenal sebagai konten yang cocok untuk keluarga.
+            Kamu dapat menonton episode-episode Tekotok di kanal YouTube resmi mereka, Tekotok, yang telah memiliki jutaan pelanggan dan ratusan video.
+            Mereka juga aktif di Instagram dengan ratusan ribu pengikut.</item>
+        <item>Kartun Tekotok adalah sebuah serial animasi yang populer di platform YouTube dan Instagram.
+            Serial ini dikenal sebagai konten yang cocok untuk keluarga.
+            Kamu dapat menonton episode-episode Tekotok di kanal YouTube resmi mereka, Tekotok, yang telah memiliki jutaan pelanggan dan ratusan video.
+            Mereka juga aktif di Instagram dengan ratusan ribu pengikut.</item>
+        <item>Kartun Tekotok adalah sebuah serial animasi yang populer di platform YouTube dan Instagram.
+            Serial ini dikenal sebagai konten yang cocok untuk keluarga.
+            Kamu dapat menonton episode-episode Tekotok di kanal YouTube resmi mereka, Tekotok, yang telah memiliki jutaan pelanggan dan ratusan video.
+            Mereka juga aktif di Instagram dengan ratusan ribu pengikut.</item>
+        <item>Kartun Tekotok adalah sebuah serial animasi yang populer di platform YouTube dan Instagram.
+            Serial ini dikenal sebagai konten yang cocok untuk keluarga.
+            Kamu dapat menonton episode-episode Tekotok di kanal YouTube resmi mereka, Tekotok, yang telah memiliki jutaan pelanggan dan ratusan video.
+            Mereka juga aktif di Instagram dengan ratusan ribu pengikut.</item>
+        <item>Kartun Tekotok adalah sebuah serial animasi yang populer di platform YouTube dan Instagram.
+            Serial ini dikenal sebagai konten yang cocok untuk keluarga.
+            Kamu dapat menonton episode-episode Tekotok di kanal YouTube resmi mereka, Tekotok, yang telah memiliki jutaan pelanggan dan ratusan video.
+            Mereka juga aktif di Instagram dengan ratusan ribu pengikut.</item>
+        <item>Kartun Tekotok adalah sebuah serial animasi yang populer di platform YouTube dan Instagram.
+            Serial ini dikenal sebagai konten yang cocok untuk keluarga.
+            Kamu dapat menonton episode-episode Tekotok di kanal YouTube resmi mereka, Tekotok, yang telah memiliki jutaan pelanggan dan ratusan video.
+            Mereka juga aktif di Instagram dengan ratusan ribu pengikut.</item>
+        <item>Kartun Tekotok adalah sebuah serial animasi yang populer di platform YouTube dan Instagram.
+            Serial ini dikenal sebagai konten yang cocok untuk keluarga.
+            Kamu dapat menonton episode-episode Tekotok di kanal YouTube resmi mereka, Tekotok, yang telah memiliki jutaan pelanggan dan ratusan video.
+            Mereka juga aktif di Instagram dengan ratusan ribu pengikut.</item>
+        <item>Kartun Tekotok adalah sebuah serial animasi yang populer di platform YouTube dan Instagram.
+            Serial ini dikenal sebagai konten yang cocok untuk keluarga.
+            Kamu dapat menonton episode-episode Tekotok di kanal YouTube resmi mereka, Tekotok, yang telah memiliki jutaan pelanggan dan ratusan video.
+            Mereka juga aktif di Instagram dengan ratusan ribu pengikut.</item>
+        <item>Kartun Tekotok adalah sebuah serial animasi yang populer di platform YouTube dan Instagram.
+            Serial ini dikenal sebagai konten yang cocok untuk keluarga.
+            Kamu dapat menonton episode-episode Tekotok di kanal YouTube resmi mereka, Tekotok, yang telah memiliki jutaan pelanggan dan ratusan video.
+            Mereka juga aktif di Instagram dengan ratusan ribu pengikut.</item>
+        <item>Kartun Tekotok adalah sebuah serial animasi yang populer di platform YouTube dan Instagram.
+            Serial ini dikenal sebagai konten yang cocok untuk keluarga.
+            Kamu dapat menonton episode-episode Tekotok di kanal YouTube resmi mereka, Tekotok, yang telah memiliki jutaan pelanggan dan ratusan video.
+            Mereka juga aktif di Instagram dengan ratusan ribu pengikut.</item>
+        <item>Kartun Tekotok adalah sebuah serial animasi yang populer di platform YouTube dan Instagram.
+            Serial ini dikenal sebagai konten yang cocok untuk keluarga.
+            Kamu dapat menonton episode-episode Tekotok di kanal YouTube resmi mereka, Tekotok, yang telah memiliki jutaan pelanggan dan ratusan video.
+            Mereka juga aktif di Instagram dengan ratusan ribu pengikut.</item>
+        <item>Kartun Tekotok adalah sebuah serial animasi yang populer di platform YouTube dan Instagram.
+            Serial ini dikenal sebagai konten yang cocok untuk keluarga.
+            Kamu dapat menonton episode-episode Tekotok di kanal YouTube resmi mereka, Tekotok, yang telah memiliki jutaan pelanggan dan ratusan video.
+            Mereka juga aktif di Instagram dengan ratusan ribu pengikut.</item>
+        <item>Kodokemon adalah sebuah kata yang tidak memiliki arti atau makna yang jelas.
+            Hasil pencarian menunjukkan bahwa Kodokemon mungkin merujuk pada sebuah kanal YouTube yang memiliki beberapa video animasi.
+            Namun, tidak ada informasi yang jelas tentang apa yang diangkat dalam video tersebut.</item></string-array>
+
+    <array name="video_id">
+        <item>@raw/kartun1</item>
+        <item>@raw/kartun2</item>
+        <item>@raw/kartun3</item>
+        <item>@raw/kartun4</item>
+        <item>@raw/kartun5</item>
+        <item>@raw/kartun6</item>
+        <item>@raw/kartun7</item>
+        <item>@raw/kartun8</item>
+        <item>@raw/kartun9</item>
+        <item>@raw/kartun10</item>
+        <item>@raw/kartun11</item>
+        <item>@raw/kartun12</item>
+        <item>@raw/kartun13</item>
+        <item>@raw/kartun14</item>
+        <item>@raw/kartun15</item>
+    </array>
+
+
+    <integer-array name="data_gambar">
+        <item>@drawable/kartun1</item>
+        <item>@drawable/kartun2</item>
+        <item>@drawable/kartun3</item>
+        <item>@drawable/kartun4</item>
+        <item>@drawable/kartun5</item>
+        <item>@drawable/kartun6</item>
+        <item>@drawable/kartun7</item>
+        <item>@drawable/kartun8</item>
+        <item>@drawable/kartun9</item>
+        <item>@drawable/kartun10</item>
+        <item>@drawable/kartun11</item>
+        <item>@drawable/kartun12</item>
+        <item>@drawable/kartun13</item>
+        <item>@drawable/kartun14</item>
+        <item>@drawable/kartun15</item>
+
+    </integer-array>
+</resources>
